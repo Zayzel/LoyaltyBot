@@ -132,7 +132,12 @@ Commands
 
 LoyaltyBot In Action
 --------------------
-ArchonBot - [ArchonTheWizard](http://www.twitch.tv/archonthewizard)  
-BingBongBot - [CDXLIV](http://www.twitch.tv/cdxliv)
+
+ArcherBot - [Chiffre2435](http://www.twitch.tv/chiffre2435)  
+CookieMonsterBot - [Minerva_dh](http://www.twitch.tv/minerva_dh)  
+InternetBot - [Izlsnizzt](http://www.twitch.tv/izlsnizzt)  
+KarmaBot - [itsfabiotime](http://www.twitch.tv/itsfabiotime)  
+Knowledge_Bot - [Illicitmedia](http://www.twitch.tv/illicitmedia)  
+XBucksBot - [Linexnick](http://www.twitch.tv/linexnick)  
 
 If you're using LoyaltyBot send me a [twitch message](http://www.twitch.tv/message/compose?to=rvca18) so I can add you to this list!
