@@ -5,8 +5,6 @@ A TwitchTV viewer reward system
 
 Written in Node and JavaScript
 
-*By having access to this repository you and any authorized 3rd Parties agree to the [software license](https://github.com/SupremoRTD/LoyaltyBot/blob/master/License.md#software-license-for-loyaltybot)*
-
 Overview
 --------
 
