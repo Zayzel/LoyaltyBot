@@ -173,4 +173,11 @@ tools/
 logs/*
 bitly.js
 update.js
-users/
+ArcherBot.js
+CookieMonsterBot.js
+InternetBot.js
+JsonParser.js
+KarmaBot.js
+Knowledge_Bot.js
+WizardBot.js
+XBucksBot.js
