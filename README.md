@@ -32,7 +32,7 @@ Basic Setup
 example.js
 
 ````javascript
-var LoyaltyBot = require('./lib/initialize.js');
+var loyaltybot = require('./../lib/initialize.js');
 
 LoyaltyBot.initialize({
     // twitch info
@@ -44,7 +44,7 @@ LoyaltyBot.initialize({
 
     // currency system
     currency : {
-        name     : 'LoyaltyPoints',
+        name     : 'Points',
         payrate  : 15,
         host     : '127.0.0.1',
         user     : 'mysql_user',
