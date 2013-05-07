@@ -1,7 +1,7 @@
 ﻿LoyaltyBot Commands
 ===================
 
-<currency> is a placeholder for the name of your channel currency
+````<currency>```` is a placeholder for the name of your channel currency
 
 Currency Requests
 =================
