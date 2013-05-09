@@ -1,6 +1,6 @@
 var loyaltybot = require('./../lib/initialize.js');
 
-LoyaltyBot.initialize({
+loyaltybot.initialize({
     // twitch info
     twitch : {
         channel     : 'loyalty',
@@ -8,7 +8,7 @@ LoyaltyBot.initialize({
         subscribers : 'https://spreadsheets.google.com/feeds/list/****/od6/public/basic?alt=json'
     },
 
-    // currency system
+    // currency info
     currency : {
         name     : 'Points',
         payrate  : 15,
@@ -19,6 +19,6 @@ LoyaltyBot.initialize({
         website  : 'http://www.loyaltypoints.com'
     },
 
-    // optional
+    // optional features
     commands: true
 });
